@@ -40,13 +40,12 @@ A computer vision project that enables touchless control of system volume and LE
 
 ## Demo
 
-![Demo] <img width="1119" height="673" alt="image" src="https://github.com/user-attachments/assets/bb21b187-34bb-4a0b-a0fb-3ae23e9a752a" />
+Music Control <img width="1119" height="673" alt="image" src="https://github.com/user-attachments/assets/bb21b187-34bb-4a0b-a0fb-3ae23e9a752a" />
 
-![Demo](<img width="1308" height="719" alt="image" src="https://github.com/user-attachments/assets/47a4912e-67d9-4949-ba3e-c77cf205e0f1" />)
+Brightness Control <img width="1308" height="719" alt="image" src="https://github.com/user-attachments/assets/47a4912e-67d9-4949-ba3e-c77cf205e0f1" />
 
+Hardware Components <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/68ea555f-d25e-4d9f-91da-9b03f174556d" />
 
-![Hardware Setup](<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/68ea555f-d25e-4d9f-91da-9b03f174556d" />
-)
 
 ## Run
 
